@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: mohamedaminebenticha/backend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: mohamedaminebenticha/backend:7a6cd25c444619cc2e41b94644bebb553a43aa96
           ports:
             - containerPort: 5000
           env:
